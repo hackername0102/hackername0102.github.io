@@ -5,6 +5,10 @@ body {
       'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+.module {
+    resize: both;
+}
+
 .heading {
     position: absolute;
     text-align: center;
@@ -39,14 +43,14 @@ body {
 .heading h4 {
     position: absolute;
     left: 724px;
-    top: 257px;
+    top: 280px;
 
 }
 
 .heading h5 {
     position: absolute;
     left: 824px;
-    top: 256px;
+    top: 275px;
 
 }
 
