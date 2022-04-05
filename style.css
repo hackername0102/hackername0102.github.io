@@ -15,8 +15,6 @@ body {
     text-align: center;
     top: 30%;
     width: 100%;
-    resize: both;
-    overflow: auto;
 }
 
 .heading h1 {
@@ -25,16 +23,13 @@ body {
     top: 10px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 75px;
-    resize: both;
-    overflow: auto;
 }
 
 .heading h2 {
     position: absolute;
     left: 450px;
     top: -80px;
-    resize: both;
-    overflow: auto;
+
 }
 
 .heading h3 {
@@ -43,16 +38,14 @@ body {
     top: 150px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 35px;
-    resize: both;
-    overflow: auto;
+
 }
 
 #particles-js {
-    background: rgb(7, 26, 65);
+    background: rgb(3, 16, 42);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
-    resize: both;
-    overflow: auto;
+
 }
