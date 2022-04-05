@@ -26,15 +26,15 @@ body {
 
 .heading h2 {
     position: absolute;
-    left: 350px;
-    top: -60px;
+    left: 200px;
+    top: -160px;
 
 }
 
 .heading h3 {
     position: absolute;
     right: 650px;
-    top: 170px;
+    top: 140px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 35px;
 
@@ -42,15 +42,15 @@ body {
 
 .heading h4 {
     position: absolute;
-    left: 724px;
-    top: 280px;
+    left: 763px;
+    top: 200px;
 
 }
 
 .heading h5 {
     position: absolute;
-    left: 824px;
-    top: 275px;
+    left: 863px;
+    top: 200px;
 
 }
 
