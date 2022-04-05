@@ -14,25 +14,39 @@ body {
 
 .heading h1 {
     position: absolute;
-    right: 550px;
+    right: 635px;
     top: 10px;
     color: rgba(179, 170, 165, 0.957);
-    font-size: 75px;
+    font-size: 95px;
 }
 
 .heading h2 {
     position: absolute;
-    left: 450px;
-    top: -80px;
+    left: 350px;
+    top: -60px;
 
 }
 
 .heading h3 {
     position: absolute;
-    right: 450px;
-    top: 150px;
+    right: 650px;
+    top: 170px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 35px;
+
+}
+
+.heading h4 {
+    position: absolute;
+    left: 724px;
+    top: 257px;
+
+}
+
+.heading h5 {
+    position: absolute;
+    left: 824px;
+    top: 256px;
 
 }
 
