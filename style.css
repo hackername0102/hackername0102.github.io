@@ -18,44 +18,44 @@ body {
 
 .heading h1 {
     position: absolute;
-    right: 635px;
-    top: 10px;
+    right: 300px;
+    top: -50px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 95px;
 }
 
 .heading h2 {
     position: absolute;
-    left: 200px;
-    top: -160px;
+    left: 350px;
+    top: -40px;
 
 }
 
 .heading h3 {
     position: absolute;
-    right: 650px;
-    top: 140px;
+    left: 727px;
+    top: 170px;
     color: rgba(179, 170, 165, 0.957);
-    font-size: 35px;
+    font-size: 25px;
 
 }
 
 .heading h4 {
     position: absolute;
-    left: 763px;
-    top: 200px;
+    left: 723px;
+    top: 220px;
 
 }
 
 .heading h5 {
     position: absolute;
-    left: 863px;
-    top: 200px;
+    left: 823px;
+    top: 220px;
 
 }
 
 #particles-js {
-    background: rgb(7, 26, 65);
+    background: rgb(8, 33, 58);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
