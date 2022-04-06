@@ -9,48 +9,49 @@ body {
     resize: both;
 }
 
-.heading {
+
+.container {
     position: absolute;
     text-align: center;
     top: 30%;
     width: 100%;
 }
 
-.heading h1 {
+.container h1 {
     position: absolute;
-    right: 300px;
-    top: -50px;
+    left: 785px;
+    top: -85px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 95px;
 }
 
-.heading h2 {
+.container h2 {
     position: absolute;
-    left: 350px;
-    top: -40px;
+    left: 400px;
+    top: -50px;
 
 }
 
-.heading h3 {
+.container h3 {
     position: absolute;
-    left: 727px;
-    top: 170px;
+    left: 785px;
+    top: 140px;
     color: rgba(179, 170, 165, 0.957);
     font-size: 25px;
 
 }
 
-.heading h4 {
+.container h4 {
     position: absolute;
-    left: 723px;
-    top: 220px;
+    left: 785px;
+    top: 210px;
 
 }
 
-.heading h5 {
-    position: absolute;
-    left: 823px;
-    top: 220px;
+.container h5 {
+    position: relative;
+    left: -40px;
+    top: 207px;
 
 }
 
